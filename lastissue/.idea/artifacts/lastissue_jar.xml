@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lastissue:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lastissue_jar</output-path>
+    <root id="archive" name="lastissue.jar">
+      <element id="module-output" name="lastissue" />
+    </root>
+  </artifact>
+</component>
